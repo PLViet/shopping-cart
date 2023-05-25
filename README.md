@@ -38,7 +38,7 @@ Note: The payment page is created only for demo purpose and its not fully integr
 
 3. Database:
 - MySql
-
+  
 ### ================ Software And Tools Required ================
 - : Git [https://www.youtube.com/watch?v=gv7VPQ4LZ7g]
 - : Java JDK 8+ [https://www.youtube.com/watch?v=O9PWH9SeTTE]
